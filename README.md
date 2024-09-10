@@ -11,3 +11,5 @@ If it's OK to you, share your login with me and I'll add it into the team. You t
 Afterwards, you will get the possibility to press the big red button :D
 
 But of course, you can always do it the old-fashioned way.
+
+Test report will be available with `./gradlew allureServe`
