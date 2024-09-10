@@ -89,7 +89,7 @@ class PostsTest: BaseApiTest() {
             .put("/1")
             .then()
             .assertThat()
-            .statusCode(200)
+            .statusCode(201)
             .and()
             .extract()
             .body()
